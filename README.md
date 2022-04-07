@@ -1,9 +1,4 @@
-# Mosaic - Udyam '22, Problem Statement 1
-   
-## Team - Chaos 
-- Atharva Bhatt (Team Leader)
-- Ayush Gangwani  
-- Dhruv Agarwal  
+# HANDWRITTEN CAPTCHA RECOGNITION
 
 ## Steps to test the model:
 1. Put the testing images in TESTING_CAPTCHAS Folder.
